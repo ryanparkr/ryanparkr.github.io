@@ -5,8 +5,8 @@ categories: [Crypto,Memecoins]
 excerpt: It was Elon Musk who once said “Who controls the memes, controls the universe”. In crypto it's “Who controls the memes, controls the memecoin price”. Memes are a powerful tool for those who understand that & know how to use them.
 ---
 
- It was Elon Musk who once said “Who controls the memes, controls the universe”. In crypto, “Who controls the memes, controls the price”. Memes are a powerful tool for those who understand that & know how to use them.
- ![Elon Tweet](/images/elontweet.png)
+ It was Elon Musk who once said “Who controls the memes, controls the universe”. In Crypto, “Who controls the memes, controls the memecoin price”. Memes are a powerful tool for those who understand that & know how to use them.
+ ![Elon Tweet](/images/elon.png)
 
 "Meme” was first coined by Biologist Richard Dawkins in his 1976 book ‘The Selfish Gene’. Meant to be analogous to a human “gene” that is replicated and passed on, the “meme” was conceived as a “unit of culture” (an idea, belief, pattern of behavior, etc.) which is “hosted” in the minds of one or more individuals, and can replicate itself in the sense of jumping from the mind of one person to the mind of another.
 
