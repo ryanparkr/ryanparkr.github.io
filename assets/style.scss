@@ -148,7 +148,7 @@ table tr td :last-child {
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
-  background-color: #fff3ff;
+  background-color: #EEEEEE;
 }
 
 .share-box {
@@ -365,7 +365,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
@@ -468,13 +468,13 @@ body:after {
 
 .author_title{
   text-align: center;
-  color: #939aa1;
+  color: #444444;
   letter-spacing: 2px;
 }
 
 .post_date{
   text-align: center;
-  color: #939aa1;
+  color: #444444;
 }
 
 .cd-container a {
@@ -703,7 +703,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: #6FA8DC;
   border-radius: 50px;
   color: #fff;
 }
