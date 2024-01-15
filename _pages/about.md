@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-I'm Ryan Parker. This is my personal blog for long form thoughts not suitable for social media & I don't want to use medium or substack lmao. 
+I'm Ryan Parker. This is my personal blog to publish long form thoughts. 
