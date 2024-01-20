@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Memes are a powerful tool
-categories: [Crypto,Memecoins]
+categories: Crypto
 excerpt: It was Elon Musk who once said “Who controls the memes, controls the universe”. In crypto it's “Who controls the memes, controls the memecoin price”. Memes are a powerful tool for those who understand how to use them.
 ---
 

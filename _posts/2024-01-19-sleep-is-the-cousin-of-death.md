@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sleep is the cousin of death
-categories: [Sleep,Time]
+categories: Time
 ---
 
 I love those times when I'm buzzing with inspiration and ideas are flowing seamlessly as day turns to night then back to day once again. The hours are flying by, then the inevitable need for sleep hits. For someone who is passionate and driven by creative pursuits, the act of sleeping during those times can feel like a hindrance.
