@@ -4,9 +4,9 @@ title:  Sleep is the cousin of death
 categories: [sleep,time]
 ---
 
- ![Nas](/images/nas.jpg)
-
 I love those times when I'm buzzing with inspiration and ideas are flowing seamlessly as day turns to night then back to day once again. The hours are flying by, then the inevitable need for sleep hits. For someone who is passionate and driven by creative pursuits, the act of sleeping during those times can feel like a hindrance.
+
+![Nas](/images/nas.jpg)
 
 Time is our most precious commodity and every moment spent sleeping feels like a moment lost. The clock seems unforgiving as it ticks away and the frustration builds knowing that valuable time is slipping through my fingers.
 
