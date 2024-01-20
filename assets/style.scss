@@ -144,7 +144,7 @@ table tr td :last-child {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #a4a2a2;
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
@@ -703,14 +703,14 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #6FA8DC;
+  background-color: #2ef67e;
   border-radius: 50px;
   color: #fff;
 }
 
 .pagination a, .pagination span {
   padding: 7px 18px;
-  border: 1px solid #eee;
+  border: 1px solid #787676;
   margin-left: -2px;
   margin-right: -2px;
   background-color: #ffffff;
@@ -1142,6 +1142,6 @@ Modules - reusable parts of our design
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
+@import "highlights";
 @import "darcula";
 @import "svg-icons";
