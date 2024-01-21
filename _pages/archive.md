@@ -18,7 +18,7 @@ title: Archives
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
           {% if year != nyear %}
       </ul>
-      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
+      <h2 style="text-align:center;">{{ post.date | date: '%Y' }}</h2>
       <ul class="past">
           {% endif %}
           {% if month != nmonth %}
