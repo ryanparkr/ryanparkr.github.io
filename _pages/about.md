@@ -4,6 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# I'm Ryan Parker. 
-## Thanks for checking out my personal blog. This is where I publish long form thoughts mostly just for myself. I'd rather post things on my blog vs using Facebook, X, Medium or Substack. 
-### If you want to contact me just follow the links at the bottom of the page. 👇
+# My name is Ryan Parker. 
+## This is my personal blog where I publish long form thoughts mostly for myself. I'd rather post things on my blog rather than Facebook, X, Medium or Substack. 
+### If you want to contact me check out the links at the bottom of the page. 👇
