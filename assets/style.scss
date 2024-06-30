@@ -24,9 +24,9 @@ body {
   background: #fff;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #404040;
-  line-height: 1.7;
+  line-height: 1.8;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 20px;
   height: 100%;
 }
 
@@ -70,7 +70,7 @@ h2 {
 	    vertical-align: middle;
 	    width: 46px;
 	    height: 1px;
-	    background: rgb(192, 211, 218);
+	    background: rgb(0,72,186);
 	    margin: 0px 30px;
 	}
 }
@@ -172,7 +172,7 @@ span[data-pullquote]:before {
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: $green;
   text-align: center;
 }
 
@@ -376,7 +376,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -400,7 +400,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -410,7 +410,7 @@ nav {
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  padding-bottom: 13px;
 }
 
 .wrapper-footer {
