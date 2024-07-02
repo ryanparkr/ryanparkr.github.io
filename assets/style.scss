@@ -177,11 +177,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #5d97ff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #85b0fc;
   }
 }
 
@@ -703,7 +703,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: #5d97ff;
   border-radius: 50px;
   color: #fff;
 }
