@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blogs I enjoy
+title: Blogs I Like
 permalink: /blogs/
 ---
  
