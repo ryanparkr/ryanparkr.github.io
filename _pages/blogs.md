@@ -4,14 +4,15 @@ title: Blogs I enjoy
 permalink: /blogs/
 ---
  
- ### A list of other blogs I recommend checking out:
 
- * ### [Nakamoto Institute - Works to contextualize bitcoin into the broader story of cryptography and freedom](https://nakamotoinstitute.org/library/)
+**A list of other blogs I recommend checking out:**
 
- * ### [Visakanv](https://www.visakanv.com/blog/)
+ * [Nakamoto Institute - Works to contextualize bitcoin into the broader story of cryptography and freedom](https://nakamotoinstitute.org/library/)
 
- * ### [Paul Graham](https://paulgraham.com/index.html)
+ * [Visakanv](https://www.visakanv.com/blog/)
 
- * ### [Wait But Why](https://waitbutwhy.com/)
+ * [Paul Graham](https://paulgraham.com/index.html)
 
- * ### [Vitalik Buterin](https://vitalik.eth.limo/)
+ * [Wait But Why](https://waitbutwhy.com/)
+
+ * [Vitalik Buterin](https://vitalik.eth.limo/)
