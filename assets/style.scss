@@ -93,7 +93,7 @@ table {
 }
 
 table tr {
-	border-top: 1px solid #cccccc;
+	border-top: 1px solid #b5b5b5;
 	background-color: white;
 	margin: 0;
 	padding: 0;
@@ -172,12 +172,12 @@ span[data-pullquote]:before {
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: rgb(83, 121, 255);
   text-align: center;
 }
 
 a {
-  color: #5d97ff;
+  color: #4a89ff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -313,7 +313,7 @@ p > img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 26px;
   letter-spacing: 1px;
   text-align: left;
 
@@ -333,10 +333,10 @@ p > img {
 }
 
 nav {
-  float: right;
+  float: center;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -400,7 +400,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
@@ -468,13 +468,13 @@ body:after {
 
 .author_title{
   text-align: center;
-  color: #939aa1;
+  color: #84898e;
   letter-spacing: 2px;
 }
 
 .post_date{
   text-align: center;
-  color: #939aa1;
+  color: #84898e;
 }
 
 .cd-container a {
