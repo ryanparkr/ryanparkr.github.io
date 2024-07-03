@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: Blogs I enjoy
 permalink: /blogs/
 ---
  
-
-**A list of other blogs I recommend checking out:**
+ **A list of other blogs I recommend checking out:**
 
  * [Nakamoto Institute - Works to contextualize bitcoin into the broader story of cryptography and freedom](https://nakamotoinstitute.org/library/)
 
